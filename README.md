@@ -1,6 +1,8 @@
 # Scrapped-Novels-List
 A list of novels names available on lnmtl
 Are you one of lnmtl reader ? Ever curious about what all novels are actually available on lnmtl ? Well i have made it easy for you..
-Here is a csv which contain the list of all the novels on lnmtl with the novel name,story,tags,likes,and url to it.
-Also attached a json file
+It contains 3 files.
+First CSV contains Novel Name,Description/Story,Likes,Link to novel,Tags
+Json to same csv
+Second CSV contain Novel Name,Likes,Link to Novel,Tags
 Enjoy fellow reader
